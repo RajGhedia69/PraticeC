@@ -1,0 +1,107 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Raj\\Documents\\Coding Projects\\RajSampleProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{44662CFB-0955-4F5C-B41D-02A56B440AC8}|RajSampleProject.csproj|c:\\users\\raj\\documents\\coding projects\\rajsampleproject\\stepdefinitions\\api.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44662CFB-0955-4F5C-B41D-02A56B440AC8}|RajSampleProject.csproj|solutionrelative:stepdefinitions\\api.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44662CFB-0955-4F5C-B41D-02A56B440AC8}|RajSampleProject.csproj|c:\\users\\raj\\documents\\coding projects\\rajsampleproject\\features\\api\\firstapi.feature||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{44662CFB-0955-4F5C-B41D-02A56B440AC8}|RajSampleProject.csproj|solutionrelative:features\\api\\firstapi.feature||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44662CFB-0955-4F5C-B41D-02A56B440AC8}|RajSampleProject.csproj|c:\\users\\raj\\documents\\coding projects\\rajsampleproject\\stepdefinitions\\youtubesearchfeaturestepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44662CFB-0955-4F5C-B41D-02A56B440AC8}|RajSampleProject.csproj|solutionrelative:stepdefinitions\\youtubesearchfeaturestepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44662CFB-0955-4F5C-B41D-02A56B440AC8}|RajSampleProject.csproj|c:\\users\\raj\\documents\\coding projects\\rajsampleproject\\features\\search.feature||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{44662CFB-0955-4F5C-B41D-02A56B440AC8}|RajSampleProject.csproj|solutionrelative:features\\search.feature||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44662CFB-0955-4F5C-B41D-02A56B440AC8}|RajSampleProject.csproj|c:\\users\\raj\\documents\\coding projects\\rajsampleproject\\support\\datamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44662CFB-0955-4F5C-B41D-02A56B440AC8}|RajSampleProject.csproj|solutionrelative:support\\datamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "YoutubeSearchFeatureStepDefinitions.cs",
+              "DocumentMoniker": "C:\\Users\\Raj\\Documents\\Coding Projects\\RajSampleProject\\StepDefinitions\\YoutubeSearchFeatureStepDefinitions.cs",
+              "RelativeDocumentMoniker": "StepDefinitions\\YoutubeSearchFeatureStepDefinitions.cs",
+              "ToolTip": "C:\\Users\\Raj\\Documents\\Coding Projects\\RajSampleProject\\StepDefinitions\\YoutubeSearchFeatureStepDefinitions.cs",
+              "RelativeToolTip": "StepDefinitions\\YoutubeSearchFeatureStepDefinitions.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAAADkAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-20T14:14:47.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Datamodel.cs",
+              "DocumentMoniker": "C:\\Users\\Raj\\Documents\\Coding Projects\\RajSampleProject\\Support\\Datamodel.cs",
+              "RelativeDocumentMoniker": "Support\\Datamodel.cs",
+              "ToolTip": "C:\\Users\\Raj\\Documents\\Coding Projects\\RajSampleProject\\Support\\Datamodel.cs",
+              "RelativeToolTip": "Support\\Datamodel.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAAwCQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-12T15:10:56.362Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FirstAPI.feature",
+              "DocumentMoniker": "C:\\Users\\Raj\\Documents\\Coding Projects\\RajSampleProject\\Features\\API\\FirstAPI.feature",
+              "RelativeDocumentMoniker": "Features\\API\\FirstAPI.feature",
+              "ToolTip": "C:\\Users\\Raj\\Documents\\Coding Projects\\RajSampleProject\\Features\\API\\FirstAPI.feature",
+              "RelativeToolTip": "Features\\API\\FirstAPI.feature",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAXAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAJXSURBVDhPdVNfSFNhFP/duznd5tRy5N2o1BwoCVJZD0FgulCIXiJqIyiCKIKeequnKGgQ\u002BBSBT770oNtDgv15CKKCGkRgD/WQZCqBcnfnarmcbtO72znfvddNqx/8zs537nd\u002B3znfdybhXxhXfJCwn7x24gb589AxjfOpvPhuwzCMrQIGMaFcInuDyAJOIqNE/EyMIZqaEBELFYG4Ukd2mHidl7WyC8VyCbIkC39NL3CYcROSNIyIqvNCFiETV4nX2Olu7MS78CS6Gzpxse0s3gxM0EmbZ92m0k9YviUQV5rI3iU6drqakFtfQat3D476D\u002BNkIIzVjTXqjvsTcBPv4WlQKNo9DhEbW7278br/MV5qb9H36jR\u002Bln4hmfmAH8WsuauCQ8iX99HvrN3CATaLqypG58bglBzQCkuCX3IzSBczYlMV\u002BHSRYwuISnSjjO/5BZFU0IviAyNU34ZYzy0MKsetiICXjS0wxybka8fD3hgGWo7BX9uMZtcOBOp2wUEVDSn9GOm9LzZbWGBjXm1C6aA7\u002Bko3LXfQacvrOSTDT/BgZhRdDSF0\u002BUI4k7wMj8MDtaBxBr2p0YKoljMriKRmyT7im/62Mg9fTT09tYyP2U94n5lC0K2I9qxkxhgns1M9SEGyz4gHecnPmS0ti0HyON34TU9rIQ3J6ENEm\u002BZFRYAxrvgpMkLeKSJP5nbwfyFC4/zcXG4XYCQCNdTJEeqRp/KCGRRIEa9QMle5ib8FbCQCgzSyL8hbJE7S1juIqmnxrQr/F4gH9lIVPeRNQdZVnFsy41sA/AGfbrS3fsL98AAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-02-09T14:20:03.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "API.cs",
+              "DocumentMoniker": "C:\\Users\\Raj\\Documents\\Coding Projects\\RajSampleProject\\StepDefinitions\\API.cs",
+              "RelativeDocumentMoniker": "StepDefinitions\\API.cs",
+              "ToolTip": "C:\\Users\\Raj\\Documents\\Coding Projects\\RajSampleProject\\StepDefinitions\\API.cs",
+              "RelativeToolTip": "StepDefinitions\\API.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAIA9wDcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-09T14:23:58.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Search.feature",
+              "DocumentMoniker": "C:\\Users\\Raj\\Documents\\Coding Projects\\RajSampleProject\\Features\\Search.feature",
+              "RelativeDocumentMoniker": "Features\\Search.feature",
+              "ToolTip": "C:\\Users\\Raj\\Documents\\Coding Projects\\RajSampleProject\\Features\\Search.feature",
+              "RelativeToolTip": "Features\\Search.feature",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAANAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAJXSURBVDhPdVNfSFNhFP/duznd5tRy5N2o1BwoCVJZD0FgulCIXiJqIyiCKIKeequnKGgQ\u002BBSBT770oNtDgv15CKKCGkRgD/WQZCqBcnfnarmcbtO72znfvddNqx/8zs537nd\u002B3znfdybhXxhXfJCwn7x24gb589AxjfOpvPhuwzCMrQIGMaFcInuDyAJOIqNE/EyMIZqaEBELFYG4Ukd2mHidl7WyC8VyCbIkC39NL3CYcROSNIyIqvNCFiETV4nX2Olu7MS78CS6Gzpxse0s3gxM0EmbZ92m0k9YviUQV5rI3iU6drqakFtfQat3D476D\u002BNkIIzVjTXqjvsTcBPv4WlQKNo9DhEbW7278br/MV5qb9H36jR\u002Bln4hmfmAH8WsuauCQ8iX99HvrN3CATaLqypG58bglBzQCkuCX3IzSBczYlMV\u002BHSRYwuISnSjjO/5BZFU0IviAyNU34ZYzy0MKsetiICXjS0wxybka8fD3hgGWo7BX9uMZtcOBOp2wUEVDSn9GOm9LzZbWGBjXm1C6aA7\u002Bko3LXfQacvrOSTDT/BgZhRdDSF0\u002BUI4k7wMj8MDtaBxBr2p0YKoljMriKRmyT7im/62Mg9fTT09tYyP2U94n5lC0K2I9qxkxhgns1M9SEGyz4gHecnPmS0ti0HyON34TU9rIQ3J6ENEm\u002BZFRYAxrvgpMkLeKSJP5nbwfyFC4/zcXG4XYCQCNdTJEeqRp/KCGRRIEa9QMle5ib8FbCQCgzSyL8hbJE7S1juIqmnxrQr/F4gH9lIVPeRNQdZVnFsy41sA/AGfbrS3fsL98AAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-02-06T17:19:20.139Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
